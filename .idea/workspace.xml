@@ -51,7 +51,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ASTPrinter">
+    <configuration name="ASTPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lox.ASTPrinter" />
+      <module name="lox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GenerateAST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tool.GenerateAST" />
       <module name="lox" />
@@ -67,6 +80,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ASTPrinter" />
         <item itemvalue="Application.GenerateAST" />
       </list>
     </recent_temporary>
