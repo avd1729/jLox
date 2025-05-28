@@ -1,3 +1,5 @@
+package lox;
+
 abstract class Expr {
 
     static class Binary extends Expr {
